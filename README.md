@@ -1,5 +1,7 @@
 # LANShare
 
+https://x.com/cookiejunkie
+
 End-to-end encrypted file and text sharing between devices on the same local network. No internet required, no accounts, no file size limits.
 
 ## Features
