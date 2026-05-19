@@ -47,13 +47,13 @@ End-to-end encrypted file and text sharing between devices on the same local net
 ## Quick start
 
 ```bash
-git clone https://github.com/user/lanshare.git
-cd lanshare
+git clone https://github.com/CookieJunkie0/lansend.git
+cd lansend
 npm install
 npm start
 ```
 
-Open `http://localhost:3456` (or the LAN IP printed in the terminal) on each device.
+Open `http://localhost:3456` on the host machine. On other devices, open the same URL (using the host's LAN IP) — click the green dot in the top-left corner to display a QR code for easy joining.
 
 ## Requirements
 
